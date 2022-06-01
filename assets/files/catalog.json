@@ -1,0 +1,260 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "MacBook Air",
+            "desc": "Apple M1 Chip",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mba-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1636156358000"
+        },
+        {
+            "id": 2,
+            "name": "MacBook Pro",
+            "desc": "13-inch variant + M1 Chip",
+            "price": 1299,
+            "color": "#00ac51",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp-13-digitalmat-gallery-1-202111?wid=364&hei=333&fmt=png-alpha&.v=1636156358000"
+        },
+        {
+            "id": 3,
+            "name": "MacBook Pro",
+            "desc": "14-inch variant + M1 Pro/Max",
+            "price": 1999,
+            "color": "#e0bfae",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp-14-digitalmat-gallery-1-202111?wid=364&hei=333&fmt=png-alpha&.v=1635183223000"
+        },
+        {
+            "id": 4,
+            "name": "MacBook Pro",
+            "desc": "16-inch variant + M1 Pro/Max",
+            "price": 2499,
+            "color": "#544ee4",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp-16-digitalmat-gallery-1-202111?wid=364&hei=333&fmt=png-alpha&.v=1635206712000"
+        },
+        {
+            "id": 5,
+            "name": "Mac mini",
+            "desc": "Apple M1 chip",
+            "price": 699,
+            "color": "#e3e4e9",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mac-mini-digitalmat-gallery-4-202111?wid=364&hei=333&fmt=png-alpha&.v=1635186948000"
+        },
+        {
+            "id": 6,
+            "name": "iMac 24-inch",
+            "desc": "M1 chip",
+            "price": 1299,
+            "color": "#f73984",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/imac24-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635186198000"
+        },
+        {
+            "id": 7,
+            "name": "Mac Studio",
+            "desc": "Apple M1 Max/Ultra",
+            "price": 1999,
+            "color": "#1c1c1c",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mac-studio-digitalmat-gallery-5-202203?wid=364&hei=333&fmt=png-alpha&.v=1646257261656"
+        },
+        {
+            "id": 8,
+            "name": "Studio Display",
+            "desc": "5K Retina Display, 27-inches",
+            "price": 1599,
+            "color": "#7c95eb",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/studio-display-digitalmat-gallery-1-202203?wid=364&hei=333&fmt=png-alpha&.v=1645207692041"
+        },
+        {
+            "id": 9,
+            "name": "Mac Pro",
+            "desc": "Intel Xeon + Radeon Pro W5500X MPX Module",
+            "price": 5999,
+            "color": "#7c95eb",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mac-pro-digitalmat-gallery-1-202111?wid=364&hei=333&fmt=png-alpha&.v=1636480313000"
+        },
+        {
+            "id": 10,
+            "name": "Pro Display XDR",
+            "desc": "32-inches with 6K Retina display",
+            "price": 6197,
+            "color": "#7c95eb",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/proxdr-digitalmat-gallery-1-202111?wid=364&hei=333&fmt=png-alpha&.v=1635206791000"
+        },
+        {
+            "id": 11,
+            "name": "iPhone 13 Pro",
+            "desc": "A15 Bionic with 5-Core GPU, 6.1 inch variant",
+            "price": 999,
+            "color": "#7c95eb",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone13pro-digitalmat-gallery-3-202203?wid=364&hei=333&fmt=png-alpha&.v=1644988094612"
+        },
+        {
+            "id": 12,
+            "name": "iPhone 13 Pro Max",
+            "desc": "A15 Bionic with 5-Core GPU, 6.7 inch variant",
+            "price": 1099,
+            "color": "#7c95eb",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone13promax-digitalmat-gallery-3-202203?wid=364&hei=333&fmt=png-alpha&.v=1644988277330"
+        },
+        {
+            "id": 13,
+            "name": "iPhone 13",
+            "desc": "A15 Bionic with 4-Core GPU, 6.1 inch variant",
+            "price": 799,
+            "color": "#7c95eb",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone13-digitalmat-gallery-3-202203?wid=364&hei=333&fmt=png-alpha&.v=1644988765122"
+        },
+        {
+            "id": 13,
+            "name": "iPhone 13 mini",
+            "desc": "A15 Bionic with 4-Core GPU, 5.4 inch variant",
+            "price": 699,
+            "color": "#7c95eb",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone13mini-digitalmat-gallery-3-202203?wid=364&hei=333&fmt=png-alpha&.v=1644988970320"
+        },
+        {
+            "id": 14,
+            "name": "iPhone SE",
+            "desc": "A15 Bionic chip, 4.7-inch",
+            "price": 429,
+            "color": "#7c95eb",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphonese-digitalmat-gallery-3-202203?wid=364&hei=333&fmt=png-alpha&.v=1644987579761"
+        },
+        {
+            "id": 15,
+            "name": "iPhone 12",
+            "desc": "A14 Bionic chip, 6.1-inch",
+            "price": 699,
+            "color": "#7c95eb",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone12-digitalmat-gallery-1-202111?wid=364&hei=333&fmt=png-alpha&.v=1635980933000"
+        },
+        {
+            "id": 16,
+            "name": "iPhone 12 mini",
+            "desc": "A14 Bionic chip, 5.4-inch",
+            "price": 599,
+            "color": "#7c95eb",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone12mini-digitalmat-gallery-1-202111?wid=364&hei=333&fmt=png-alpha&.v=1635178694000"
+        },
+        {
+            "id": 17,
+            "name": "iPhone 11",
+            "desc": "A13 Bionic chip, 6.1-inch",
+            "price": 499,
+            "color": "#7c95eb",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone11-digitalmat-gallery-1-202111?wid=364&hei=333&fmt=png-alpha&.v=1635178715000"
+        },
+        {
+            "id": 18,
+            "name": "iPad Pro 11-inch",
+            "desc": "Apple M1 chip with 11-inch Liquid Retina display",
+            "price": 799,
+            "color": "#7c95eb",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipadpro11-digitalmat-gallery-1-202111_GEO_IN?wid=364&hei=333&fmt=png-alpha&.v=1635806334000"
+        },
+        {
+            "id": 19,
+            "name": "iPad Pro 12.9-inch",
+            "desc": "Apple M1 chip with 12.9-inch Liquid Retina display",
+            "price": 1099,
+            "color": "#7c95eb",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipadpro12-digitalmat-gallery-1-202111_GEO_IN?wid=364&hei=333&fmt=png-alpha&.v=1635801764000"
+        },
+        {
+            "id": 20,
+            "name": "iPad Air",
+            "desc": "Apple M1 chip with 10.9-inch Liquid Retina display",
+            "price": 599,
+            "color": "#7c95eb",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipadair-digitalmat-gallery-1-202203?wid=364&hei=333&fmt=png-alpha&.v=1644962768135"
+        },
+        {
+            "id": 21,
+            "name": "iPad",
+            "desc": "A13 Bionic chip with 10.2-inch Retina display",
+            "price": 329,
+            "color": "#7c95eb",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-digitalmat-gallery-1-202111?wid=365&hei=333&fmt=png-alpha&.v=1635183151000"
+        },
+        {
+            "id": 22,
+            "name": "iPad mini",
+            "desc": "A15 Bionic chip with 8.3-inch Liquid Retina display",
+            "price": 499,
+            "color": "#7c95eb",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-mini-digitalmat-gallery-1-202111?wid=365&hei=333&fmt=png-alpha&.v=1635183174000"
+        },
+        {
+            "id": 23,
+            "name": "Apple watch series 7",
+            "desc": "18 hour battery life",
+            "price": 399,
+            "color": "#7c95eb",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/watch-s7-digitalmat-gallery-1-202203_GEO_IN?wid=364&hei=333&fmt=png-alpha&.v=1646033514795"
+        },
+        {
+            "id": 24,
+            "name": "Apple watch SE",
+            "desc": "2x faster processor than Series 3",
+            "price": 279,
+            "color": "#7c95eb",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/watch-se-digitalmat-gallery-1-202203_GEO_IN?wid=364&hei=333&fmt=png-alpha&.v=1647778278941"
+        },
+        {
+            "id": 24,
+            "name": "Apple watch series 3",
+            "desc": "Swimproof",
+            "price": 199,
+            "color": "#7c95eb",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/watch-s3-digitalmat-gallery-1-202111_GEO_IN?wid=364&hei=333&fmt=png-alpha&.v=1636062448000"
+        },
+        {
+            "id": 25,
+            "name": "Apple watch Nike series 7",
+            "desc": "All-day 18 hour battery life ",
+            "price": 399,
+            "color": "#7c95eb",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/watch-nike-s7-digitalmat-gallery-1-202203_GEO_IN?wid=364&hei=333&fmt=png-alpha&.v=1646441932788"
+        },
+        {
+            "id": 26,
+            "name": "Apple watch Nike SE",
+            "desc": "Track all your favourite workouts",
+            "price": 279,
+            "color": "#7c95eb",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/watch-nike-se-digitalmat-gallery-1-202203?wid=364&hei=333&fmt=jpeg&qlt=95&.v=1645227533171"
+        },
+        {
+            "id": 27,
+            "name": "Apple AirPods",
+            "desc": "2nd Generation",
+            "price": 129,
+            "color": "#7c95eb",
+            "image": "https://www.reliancedigital.in/medias/Apple-Airpods-BTStereo-CC-491431363-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w5Mzc2N3xpbWFnZS9qcGVnfGltYWdlcy9oNGUvaDA2LzkxMjg1MzkzMjQ0NDYuanBnfDlkYWFmZjhhODYxZTIxNDg0ODFmMjU4NDJkNmQ1ZWVhMjU5MmI3MWNiNDM2MzE2NzMzYWNmOWNmNjE0ZmNhYzE"
+        },
+        {
+            "id": 28,
+            "name": "Apple AirPods",
+            "desc": "3nd Generation",
+            "price": 179,
+            "color": "#7c95eb",
+            "image": "https://www.reliancedigital.in/medias/Apple-Airpods-492571632-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3MjQxMHxpbWFnZS9qcGVnfGltYWdlcy9oZDEvaDYwLzk4MjIzMzA0ODY4MTQuanBnfDk2OTA2M2NiOGFjMDJmYTAzMzQzYzMyY2YwYTdhMmIxNDYzZTk1MTBhNDViMjJhZTg5ZTJmNDc0OTE3YmEyMWM"
+        },
+        {
+            "id": 29,
+            "name": "Apple AirPods Pro",
+            "desc": "4.5 hours",
+            "price": 249,
+            "color": "#7c95eb",
+            "image": "https://www.reliancedigital.in/medias/Apple-Airpods-pro-492571631-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2ODM3N3xpbWFnZS9qcGVnfGltYWdlcy9oYTEvaDAyLzk4MjIzMzAxNTkxMzQuanBnfDcyODExNDA3ZWVkOTdmNjU4Njg5M2MyMmFhNmYwNWE0YjkzYTRlZmQ5NDg1NjU3ZTE3OWE4Y2EyNmM2ODAzZjE"
+        },
+        {
+            "id": 30,
+            "name": "Apple AirPods Pro Max",
+            "desc": "20 hours",
+            "price": 549,
+            "color": "#7c95eb",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-max-select-silver-202011?wid=470&hei=556&fmt=png-alpha&.v=1604021221000"
+        }
+    ]
+}
