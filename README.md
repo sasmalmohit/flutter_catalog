@@ -1,6 +1,6 @@
 # flutter_catalog
 
-A new Flutter project.
+A new Flutter project which comprises top Apple Inc. products in it
 
 ## Getting Started
 
